@@ -3,7 +3,7 @@ UNWALL
 
 > Use an image from unsplash.com as your wallpaper from a simple command line tool.
 
-![Demo](https://source.unsplash.com/category/buildings)
+![Demo](https://source.unsplash.com/category/buildings/500x500)
 
 This downloads an image from unsplash.it to the current working directory unless specified.
 
