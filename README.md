@@ -53,4 +53,4 @@ Thanks
 This tool wouldn't be possible without
 
 * https://unsplash.com/
-* https://github.com/sindresorhus/wallpaper
+
